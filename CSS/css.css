@@ -4,14 +4,14 @@
 }
 
 .secundarybackground{
-    background-color: #DFF6FF;
+    background-color: #dff1f8;
     background-size: 200% 200%;
 
 }
 #profilecontainer{
     background-image: url("../images/deepspace.jpg");
     background-size: 200vh;
-    color: #DFF6FF;
+    color: #dff1f8;
    
 }
 
@@ -26,6 +26,10 @@
     height: 120px;
 }
 
-#AboutME, h2{
-    color: #DFF6FF;
+#AboutME, h2 .text-lighterblue{
+    color: #dff1f8;
+}
+
+#AboutME, .text-lighterblue{
+    color: #dff1f8;
 }
